@@ -1,4 +1,4 @@
-preset: laravel
 js: true
 css: true
 vue: true
+preset: laravel
